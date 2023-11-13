@@ -1,0 +1,59 @@
+
+
+
+.profile{
+
+  vertical-align: middle;
+  width: 90px;
+  height:90px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.line{
+  width: 60px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  margin:auto;
+}
+.line2{
+  width: 60px;
+  border: 1px solid black;
+  margin-left: 13px;
+  border-radius: 5px;
+}
+.icon{
+  color: white;
+  padding-right: 105px;
+}
+.icon2{
+  color: white;
+  padding-right: 180px;
+}
+.icon3{
+  color: white;
+  padding-right: 40px;
+}
+.icon4{
+  color: white;
+  padding-left: 12px;
+}
+.skill{
+  color: white;
+  padding-right: 240px;
+}
+.skill2{
+  color: white;
+  padding-right: 260px;
+}
+.skill3{
+  color: white;
+  padding-right: 190px;
+}
+.skill4{
+  color: white;
+  padding-right: 240px;
+}
+.list{
+  margin-left: 80px;
+}
